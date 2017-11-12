@@ -1,2 +1,4 @@
-Vika,22,3
-Oleh,28,9
+statska,24,3
+kuprovskui,28,6
+ivanov, 27, 2
+petrov, 27, 1
