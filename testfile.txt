@@ -1,5 +1,5 @@
 statska,24,3
 kuprovskui,28,6
-ivanov, 27, 2
-petrov, 27, 1
-vasylkiv, 28, 5
+ivanov,27,2
+petrov,27,1
+vasylkiv,28,5
