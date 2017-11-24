@@ -15,7 +15,7 @@ public class PrintStudents
     public static void main( String[] args ) throws IOException 
     {
 		ArrayList<Student> studentList = readFileToArrayList("testfile.txt");
-		//sort
+		
 		Collections.sort(studentList, new Comparator<Student>() {
 		    public int compare(Student o1, Student o2) {
 //		        return o1.getAge().compareTo(o2.getAge());
